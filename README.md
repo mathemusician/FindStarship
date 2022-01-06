@@ -1,2 +1,2 @@
 # FindStarship
-All your starships belongs us
+All your starships belongs to us
